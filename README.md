@@ -3,51 +3,41 @@
 Nombre: Victorio
 Apellido: Paskevicius
 DNI: 48.074.409
-Correo Electrónico y link (url) de la cuenta personal de github: https://github.com/victorioPaskevicius/Robotica.git
+Correo Electrónico: vpaskevicius@escuelasproa.edu.ar
+(url) de la cuenta personal de github: https://github.com/victorioPaskevicius/Robotica.git
+
+Nombre: Leonel
+Apellido: Soto
+DNI: 48.537.499
+Correo Electrónico: lasoto@escuelasproa.edu.ar
+(url) de la cuenta personal de github: leonel12341234
+
+Nombre: Morena
+Apellido: Ledesma
+DNI: 48.130.190
+Correo Electrónico: moledesma@escuelasproa.edu.ar
+(url) de la cuenta personal de github: morenaaaledesma
+
+
 
 Proyecto:
 
 Plan de Proyecto:
-Escribe aquí tu texto 
+El plan de nuestro proyecto es crear un auto de epoca, hecho con la impresora 3D.
+Las funciones que debe realizar son poder moverse en varias direcciones con un control remoto. Esto lo lograremos con el software Arduino.
 
 Arquitectura Física - Sensores:
+Debe estar compuesto por el chasis que sera lo que se impimira por impresora 3D, con soportes diseñados para alojar la placa Arduino, baterías, sensores y otros componentes electrónicos. Las ruedas pueden ser impresas o compradas, pero deben estar conectadas con el motor para que tenga funcionamiento.
+
 
 Detalle de Sensores a Utilizar
-Escribe aquí tu texto 
+Encoder rotativo: Acoplado a los motores para medir la rotación de las ruedas, permitiendo controlar la velocidad o la distancia recorrida con precisión.
 
 Circuito Electrónico:
-Escribe aquí tu texto 
+Escribe aquí tu texto
 
 Diseño de elementos y soportes 3D:
-La impresión 3D se convertirá en un recurso valioso para crear soportes y carcasas que contengan sensores, placas y otros elementos necesarios. 
-Es fundamental que el diseño de estas piezas se alinee tanto con la funcionalidad como con la estética del producto. Diseñar piezas de manera 
-creativa y dinámica no solo mejorará la seguridad del producto, sino que también lo hará más atractivo y demandado comercialmente.
-Los programas utilizados para el diseño de partes serán: tinkercad o Blender y el programa de la impresora: Cura.
-
-Base de Datos
-Modelo de Base de Datos - Descripción de Objetos / Tablas 
-Escribe aquí tu texto 
-
-Modelo Entidad Relación
-Escribe aquí tu texto 
-
-Script de creación de la base de datos
-Escribe aquí tu texto 
-
-Diseño del Sistema
-Diseño de Clases - Descriptivo
-Escribe aquí tu texto 
-
-Diagrama de Clases y Relaciones
-Escribe aquí tu texto 
-
-Programas:
-
-Programas - Código fuente de Clases
-Escribe aquí tu texto 
-
-Programas - Código fuente Front (frente)
-Escribe aquí tu texto 
+Se decidira al ver los distintos modelos de autos que tenemos a dispocision.
 
 Programas - Código fuente Backend (atras) (MySQL - Python - Arduino - Git -)
-Escribe aquí tu texto
+arduino
